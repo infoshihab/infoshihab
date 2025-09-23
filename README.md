@@ -1,6 +1,6 @@
 # Hi, I'm Shihab Uddin (infoshihab) 👋  
 
-**Aspiring Software Developer | Full-Stack Web Developer | Problem Solver**  
+**Aspiring Software Developer | Full-Stack Web Developer **  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=infoshihab&label=Profile%20Views&color=blue&style=flat)
 
@@ -45,8 +45,8 @@ I am a passionate **Web Developer** and an aspiring **Software Engineer**, with 
 
 ---
 
-## 📲 Live App & Play Store  
-I have built a **production-ready web application** that is [live](https://pocketpulse-vrkx.onrender.com/) and published on **Google Play Store**, showcasing my ability to create, deploy, and maintain real-world projects.  
+## 📲 Live App  
+I have built a **production-ready web application** that is [live](https://pocketpulse-vrkx.onrender.com/)  showcasing my ability to create, deploy, and maintain real-world projects.  
 
 ---
 
