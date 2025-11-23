@@ -11,7 +11,7 @@ I am a passionate **Web Developer** and an aspiring **Software Engineer**, with 
 
 - 💻 Skilled in **MERN (MongoDB, Express, React, Node.js)**, **JavaScript**, **EJS**, **SQL**, and **C++**  
 - 🎨 Proficient in **HTML5, CSS3, Tailwind CSS, and Bootstrap** for responsive, modern designs  
-- 📱 Developed a **live web application**, also available on **Google Play Store**  
+- 📱 Developed a **live web application**
 - 🌱 Always learning and exploring new technologies to strengthen my development journey  
 - ⚡ Believe in **project-based learning** and have built several applications ranging from utilities to full-stack projects  
 
