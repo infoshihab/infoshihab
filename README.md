@@ -6,7 +6,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+Scalable+Applications;MERN+Stack+Developer;Open+to+Opportunities" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=infoshihab&color=3b82f6&style=flat-square)](https://github.com/infoshihab)
+![Profile Views](https://komarev.com/ghpvc/?username=infoshihab&color=3b82f6&style=flat-square)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=infoshihab.infoshihab&left_color=gray&right_color=blue)
 
 </div>
 
@@ -17,7 +18,7 @@
 ```javascript
 const developer = {
     name: "Shihab Uddin",
-    role: "Software Developer",
+    role: "Full-Stack Web Developer",
     location: "Bangladesh",
     tech: ["JavaScript", "React", "Node.js", "MongoDB"],
     devOps: ["AWS", "Docker", "CI/CD"],
@@ -140,7 +141,7 @@ I specialize in creating **scalable web applications** with modern technologies.
 
 <div align="center">
 
-**💡 "Make it work, make it right, make it fast."**
+**💡 "First, solve the problem. Then, write the code." – John Johnson**
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
