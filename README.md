@@ -140,7 +140,7 @@ I specialize in creating **scalable web applications** with modern technologies.
 
 <div align="center">
 
-**💡 "Code is like humor. When you have to explain it, it's bad."**
+**💡 "Make it work, make it right, make it fast."**
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
