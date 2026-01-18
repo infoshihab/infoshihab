@@ -1,81 +1,90 @@
-# Hi, I'm Shihab Uddin (infoshihab) 👋  
+# Shihab Uddin
 
-**Aspiring Software Developer | Full-Stack Web Developer **  
+**Full-Stack Web Developer | MERN Stack Specialist**
 
-![Profile Views](https://komarev.com/ghpvc/?username=infoshihab&label=Profile%20Views&color=blue&style=flat)
-
----
-
-## 🚀 About Me  
-I am a passionate **Web Developer** and an aspiring **Software Engineer**, with a strong foundation in **MERN stack, JavaScript, and modern web technologies**. I enjoy solving problems, building scalable applications, and delivering projects that combine **functionality with clean UI/UX**.  
-
-- 💻 Skilled in **MERN (MongoDB, Express, React, Node.js)**, **JavaScript**, **EJS**, **SQL**, and **C++**  
-- 🎨 Proficient in **HTML5, CSS3, Tailwind CSS, and Bootstrap** for responsive, modern designs  
-- 📱 Developed a **live web application**
-- 🌱 Always learning and exploring new technologies to strengthen my development journey  
-- ⚡ Believe in **project-based learning** and have built several applications ranging from utilities to full-stack projects  
+![Profile Views](https://komarev.com/ghpvc/?username=infoshihab&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-## 🛠️ Tech Stack  
+## 👨‍💻 About Me
 
-**Languages & Frameworks**  
-- C++, JavaScript (ES6+), Node.js, Express.js, React.js, EJS  
-- HTML5, CSS3, Tailwind CSS, Bootstrap  
+Full-Stack Web Developer specializing in building scalable, user-focused applications with the **MERN stack**. I create solutions that balance clean code with exceptional user experience.
 
-**Databases**  
-- MongoDB, SQL (MySQL)  
-
-**Other Tools & Skills**  
-- REST APIs, Authentication, Cloudinary, Git/GitHub, Deployment  
+- 🔧 **Stack:** MongoDB, Express.js, React.js, Node.js
+- 💻 **Languages:** JavaScript (ES6+), C++, SQL
+- 🎨 **Design:** HTML5, CSS3, Tailwind CSS, Bootstrap
+- 🚀 **Focus:** RESTful APIs, Authentication, Cloud Integration
 
 ---
 
-## 🌟 Featured Projects  
+## 🛠️ Tech Stack
 
-| Project | Description | Live Demo / Repo |
-|---------|-------------|------------------|
-| **Doctor Appointment Booking Clone (MERN)** | A full-stack web application for booking doctor appointments with authentication, payments, and dashboard. | [Repo](https://github.com/infoshihab) |
-| **Weather Application** | Real-time weather updates with dynamic **day/night mode** using API integration. | [Repo](https://github.com/infoshihab/weather-apps) |
-| **Currency Converter** | Converts between currencies in real-time using an API. | [Repo](https://github.com/infoshihab/currency-converter) |
-| **Calculator** | A responsive calculator built with **HTML, CSS, and JavaScript**. | [Repo](https://github.com/infoshihab/Calculator) |
-| **Simon Says Game** | Classic memory-based game built with JavaScript. | [Repo](https://github.com/infoshihab/Simon-Says-Game) |
-
-✨ More projects are available in my [repositories](https://github.com/infoshihab?tab=repositories).
+```text
+Languages       JavaScript • C++ • HTML5 • CSS3
+Frontend        React.js • EJS • Tailwind CSS • Bootstrap
+Backend         Node.js • Express.js
+Databases       MongoDB • MySQL
+Tools           Git • GitHub • Cloudinary • REST APIs
+```
 
 ---
 
-## 📲 Live App  
-I have built a **production-ready web application** that is [live](https://pocketpulse-vrkx.onrender.com/)  showcasing my ability to create, deploy, and maintain real-world projects.  
+## 🌟 Featured Projects
+
+### [Doctor Appointment System](https://github.com/infoshihab)
+Full-stack MERN application with booking system, authentication, payments, and admin dashboard
+
+### [PocketPulse - Live App](https://pocketpulse-vrkx.onrender.com/)
+Production-ready web application showcasing end-to-end development and deployment
+
+### [Weather Application](https://github.com/infoshihab/weather-apps)
+Real-time weather updates with dynamic day/night mode and API integration
+
+### [Currency Converter](https://github.com/infoshihab/currency-converter)
+Live currency conversion with real-time exchange rates
+
+### [More Projects →](https://github.com/infoshihab?tab=repositories)
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=infoshihab&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infoshihab&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=infoshihab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=infoshihab&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infoshihab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=infoshihab&theme=tokyonight&hide_border=true&background=0D1117)
 
-## 📌 Goals  
-- Grow as a **Full-Stack Software Developer**  
-- Contribute to **open-source projects**  
-- Build scalable applications that impact real users  
+</div>
 
 ---
 
-## 📫 Connect With Me  
-- 🌐 [Portfolio](https://infoshihab.netlify.app)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shihabuddiin)  
-- 📧 Reach out for collaboration opportunities  
+## 🎯 Current Focus
+
+- Building scalable full-stack applications
+- Contributing to open-source projects
+- Expanding expertise in modern web technologies
 
 ---
 
-### 🔎 Keywords for Discovery (SEO)  
-Full-Stack Web Developer • MERN Developer • JavaScript Developer • React.js • Node.js • MongoDB • Tailwind CSS • Software Developer • Problem Solver • API Integration • SQL Developer • EJS • Web Application Development  
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://infoshihab.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shihabuddiin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/infoshihab)
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to collaboration and opportunities**
+
+`MERN Stack` • `JavaScript` • `React.js` • `Node.js` • `MongoDB` • `Full-Stack Development`
+
+</div>
