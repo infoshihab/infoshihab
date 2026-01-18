@@ -17,7 +17,7 @@
 ```javascript
 const developer = {
     name: "Shihab Uddin",
-    role: "Full-Stack Web Developer",
+    role: "Software Developer",
     location: "Bangladesh",
     tech: ["JavaScript", "React", "Node.js", "MongoDB"],
     devOps: ["AWS", "Docker", "CI/CD"],
@@ -128,8 +128,10 @@ I specialize in creating **scalable web applications** with modern technologies.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://infoshihab.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shihabuddiin.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shihabuddiin)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/shihabuddin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infoshihab00000@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/infoshihab)
 
 </div>
