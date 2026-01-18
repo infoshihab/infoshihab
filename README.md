@@ -1,81 +1,132 @@
+<div align="center">
+
 # Shihab Uddin
 
-**Full-Stack Web Developer | MERN Stack Specialist**
+### Full-Stack Developer • MERN Stack Specialist
 
-![Profile Views](https://komarev.com/ghpvc/?username=infoshihab&label=Profile%20Views&color=0e75b6&style=flat)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+Scalable+Applications;MERN+Stack+Developer;Open+to+Opportunities" alt="Typing SVG" />
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=infoshihab&color=3b82f6&style=flat-square)](https://github.com/infoshihab)
 
-## 👨‍💻 About Me
-
-Full-Stack Web Developer specializing in building scalable, user-focused applications with the **MERN stack**. I create solutions that balance clean code with exceptional user experience.
-
-- 🔧 **Stack:** MongoDB, Express.js, React.js, Node.js
-- 💻 **Languages:** JavaScript (ES6+), C++, SQL
-- 🎨 **Design:** HTML5, CSS3, Tailwind CSS, Bootstrap
-- 🚀 **Focus:** RESTful APIs, Authentication, Cloud Integration
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
 
-```text
-Languages       JavaScript • C++ • HTML5 • CSS3
-Frontend        React.js • EJS • Tailwind CSS • Bootstrap
-Backend         Node.js • Express.js
-Databases       MongoDB • MySQL
-Tools           Git • GitHub • Cloudinary • REST APIs
+```javascript
+const developer = {
+    name: "Shihab Uddin",
+    role: "Full-Stack Web Developer",
+    location: "Bangladesh",
+    tech: ["JavaScript", "React", "Node.js", "MongoDB"],
+    passion: "Building user-focused applications"
+};
 ```
 
----
-
-## 🌟 Featured Projects
-
-### [Doctor Appointment System](https://github.com/infoshihab)
-Full-stack MERN application with booking system, authentication, payments, and admin dashboard
-
-### [PocketPulse - Live App](https://pocketpulse-vrkx.onrender.com/)
-Production-ready web application showcasing end-to-end development and deployment
-
-### [Weather Application](https://github.com/infoshihab/weather-apps)
-Real-time weather updates with dynamic day/night mode and API integration
-
-### [Currency Converter](https://github.com/infoshihab/currency-converter)
-Live currency conversion with real-time exchange rates
-
-### [More Projects →](https://github.com/infoshihab?tab=repositories)
+I specialize in creating **scalable web applications** with modern technologies. From frontend to backend, I deliver solutions that combine clean code with exceptional user experience.
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Doctor Appointment System</h3>
+<div align="center">  
+<a href="https://github.com/infoshihab" target="_blank">
+<img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+</a>
+<p><strong>MERN Stack</strong> - Authentication • Payments • Dashboard</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">PocketPulse</h3>
+<div align="center">  
+<a href="https://pocketpulse-vrkx.onrender.com/" target="_blank">
+<img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
+</a>
+<p><strong>Production App</strong> - Full-Stack • Deployed • Real-time</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Weather Application</h3>
+<div align="center">  
+<a href="https://github.com/infoshihab/weather-apps" target="_blank">
+<img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+</a>
+<p><strong>API Integration</strong> - Real-time Data • Day/Night Mode</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Currency Converter</h3>
+<div align="center">  
+<a href="https://github.com/infoshihab/currency-converter" target="_blank">
+<img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+</a>
+<p><strong>Live Rates</strong> - Multi-currency • Modern UI</p>
+</div>
+</td>
+</tr>
+</table>
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=infoshihab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infoshihab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=infoshihab&theme=tokyonight&hide_border=true&background=0D1117)
+[![More Projects](https://img.shields.io/badge/More_Projects-3b82f6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/infoshihab?tab=repositories)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-- Building scalable full-stack applications
-- Contributing to open-source projects
-- Expanding expertise in modern web technologies
-
----
-
-## 📫 Connect With Me
+### 📊 GitHub Stats
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://infoshihab.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shihabuddiin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/infoshihab)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=infoshihab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=3b82f6&icon_color=3b82f6" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=infoshihab&theme=tokyonight&hide_border=true&background=1a1b27&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infoshihab&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=3b82f6" />
+
+</div>
+
+---
+
+### 🎯 What I'm Doing
+
+- 🔨 Building full-stack applications with MERN
+- 🌱 Learning advanced backend architectures
+- 🤝 Open to collaboration on innovative projects
+- 💼 Available for freelance opportunities
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://infoshihab.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shihabuddiin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/infoshihab)
 
 </div>
 
@@ -83,8 +134,8 @@ Live currency conversion with real-time exchange rates
 
 <div align="center">
 
-**Open to collaboration and opportunities**
+**💡 "Code is like humor. When you have to explain it, it's bad."**
 
-`MERN Stack` • `JavaScript` • `React.js` • `Node.js` • `MongoDB` • `Full-Stack Development`
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
