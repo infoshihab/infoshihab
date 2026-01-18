@@ -20,6 +20,7 @@ const developer = {
     role: "Full-Stack Web Developer",
     location: "Bangladesh",
     tech: ["JavaScript", "React", "Node.js", "MongoDB"],
+    devOps: ["AWS", "Docker", "CI/CD"],
     passion: "Building user-focused applications"
 };
 ```
@@ -39,7 +40,10 @@ I specialize in creating **scalable web applications** with modern technologies.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
